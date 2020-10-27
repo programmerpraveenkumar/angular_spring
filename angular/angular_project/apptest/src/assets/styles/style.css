@@ -1,0 +1,182 @@
+body{}
+.header{
+    background-color: #E3F1F9;
+    overflow: hidden;
+}
+.content{
+    width: 70%;
+    margin:0 auto;
+    padding: 25px 0;
+    overflow: hidden;
+}
+.nav_menu .content{
+    padding: 5px 0;
+}
+.menu .nav-item .nav-link {
+    color: #fff;
+}
+.menu .nav-item .nav-link:hover{
+    background: #059BD8;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.logo .site_name{
+    color: #3A6C86;
+    font-size: 2.5em;
+}
+.logo .description{
+    color: #666666;
+    font-size: .75em;
+}
+.form_signup{
+    background-color:#ADD6ED ;
+    padding: 10px 15px;
+    font-size: 0.80em;
+    font-weight: bold;
+}
+.form_signup .help_text{
+    color: #000;
+}
+.form_signup .submit_button{
+    color: #fff;
+    background-color: #4D9FC7;
+
+}
+
+.nav_menu{
+    background-color: #000;
+}
+.search .input_txt{
+    height: 25px;
+    background: #000;
+    color: #fff;
+    border: 1px solid #524e4e;
+}
+.search .button{
+    color: #fff;
+    background: #059BD8;
+    outline: none;
+    border: none;
+    font-size: 0.75em;
+    font-weight: bold;
+}
+.search{
+    margin-top: 7px;
+}
+.left-content{
+    background-color: #2584B7;
+    color:#fff;
+}
+.right_content{
+/* margin-left: 2px;; */
+}
+
+
+
+.page_details .row{
+    margin-top:10px ;
+    
+}
+.header_content{
+    padding:5px 15px;
+}
+.header_content .link{
+    color: #FFF;
+    float: right;
+    background: #1C5E82;
+    padding: 5px 15px;
+}
+
+.med_content .title{
+    border-bottom: 1px dotted #000;
+}
+.med_content .img_left {
+    margin-right: 10px;
+}
+.med_content div{
+   background-color: #EFEFEF;
+   padding:10px
+}
+.med_content .cont_reading{
+    background-color: #666666;
+    padding: 5px 10px;
+    color: #fff;
+}
+.med_content div a{
+
+}
+.right_content .text_content
+{
+    width: 60%;
+    font-size: .75em;
+}
+
+.about_content .left-content{
+    background-color: transparent;
+    color: #000;
+}
+.about_content .right_content
+{
+    padding-top: 5px;
+}
+.about_content h5,.about_content h6{
+    border-bottom: 1px dotted #000;
+}
+.footer{
+    background-color: #F3F3F3;
+    
+
+}
+.footer.contact{
+    position: fixed;
+    bottom: 0;
+    left:0;
+    right:0;
+}
+.footer h4{
+    color: #999999;
+    font-size: 1em;
+}
+.footer .links{
+    color: #2584B7;
+    text-decoration: none;
+}
+.inputs input{
+    background-color: #2584B7;
+    color: #fff;
+    margin-top: 5px;
+}
+.inputs .left{
+    width: 70%;
+}
+.footer h6{
+    font-size: 0.65em;
+}
+.footer .txtcolor{
+    color:#999999;
+}
+
+.contact-wrapper div {
+    margin: 10px 0;
+    width: 100%;
+    /* background: rebeccapurple; */
+}
+
+.contact-wrapper div input{
+  width: 60%;
+}
+.contact-wrapper  form{
+    border:1px solid #2584B7;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn.submit{
+    background: #2584B7;
+    width: 60%;
+    color: #fff;
+}
